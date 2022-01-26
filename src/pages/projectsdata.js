@@ -10,7 +10,7 @@ const projectsdata = [
       title: "NodeMail Wisher",
       image: "./nodemaileranim.gif",
       description:
-        "The main objective is to wish people on their special occasion automatically via gmail using Node js+MySql ",
+        "The main objective is to wish people on their special occasion automatically via gmail using Node js and MySql ",
          
       link: "https://node-wisher.herokuapp.com/",
     },
