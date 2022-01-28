@@ -7,6 +7,14 @@ const projectsdata1 = [
       link: "https://locuscorner.com/",
     },
     {
+      title: "BOOK PARTY HALLS",
+      image: "./bookparty.svg",
+      description:
+        "Book your hall from where you are and enjoy the party ",
+         
+      link: "https://bookpartyhalls.com/",
+    },
+    {
       title: "MAX FASHIONS",
       image: "./freelance2.svg",
       description:
