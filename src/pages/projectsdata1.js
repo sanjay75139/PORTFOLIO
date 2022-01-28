@@ -14,14 +14,14 @@ const projectsdata1 = [
          
       link: "https://bookpartyhalls.com/",
     },
-    {
+    /*{
       title: "MAX FASHIONS",
       image: "./freelance2.svg",
       description:
         "Buy Max Fashion Clothing & Footwear Online for men, women & kids in India. Explore a wide range of Max t-shirts, tops, jeans, shoes & more",
          
       link: "https://www.maxfashion.in/",
-    },
+    },*/
     
   ];
 
