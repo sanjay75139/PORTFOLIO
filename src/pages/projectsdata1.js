@@ -10,7 +10,7 @@ const projectsdata1 = [
       title: "Dharanifood",
       image: "./bookparty.svg",
       description:
-        "An online e-food shoping website ",
+        "An online e-food shoping website.Order here and receive at your door",
          
       link: "https://dharanifood.com/",
     },
