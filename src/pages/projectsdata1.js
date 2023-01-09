@@ -7,20 +7,20 @@ const projectsdata1 = [
       link: "https://locuscorner.com/",
     },
     {
-      title: "BOOK PARTY HALLS",
+      title: "Dharanifood",
       image: "./bookparty.svg",
       description:
-        "Book your hall from where you are and enjoy the party ",
+        "An online e-food shoping website ",
          
-      link: "https://bookpartyhalls.com/",
+      link: "https://dharanifood.com/",
     },
     {
-      title: "MAX FASHIONS",
+      title: "ADNOX",
       image: "./freelance2.svg",
       description:
-        "Buy Max Fashion Clothing & Footwear Online for men, women & kids in India. Explore a wide range of Max t-shirts, tops, jeans, shoes & more",
+        "Buy ADNOX Clothing & Footwear Online for men, women & kids in India. Explore a wide range of Max t-shirts, tops, jeans, shoes & more",
          
-      link: "https://www.maxfashion.in/",
+      link: "https://adnoxfashion.com/",
     },
     
   ];
