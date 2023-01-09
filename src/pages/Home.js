@@ -130,15 +130,17 @@ function Home() {
 
 
       <div>
-      <h3 className='font-bold text-center'>Who is sanjay</h3>
-      <div className="who-is-sanja flex-with-center" style={{backgroundImage:`url('/whoissanjay.svg')`}}>
+      <h3 className='font-bold text-center'>Know me!!!!!</h3>
+      <div className="who-is-sanjay flex-with-center" style={{backgroundImage:`url('/whoissanjay.svg')`}}>
          
          <div>
              <h3>Hi , Hello , Vanakkam</h3>
              <hr />
              <p><pre>{JSON.stringify({
-                 name:"K.Sanjay" ,
+                 name:"Sanjay" ,
                  from : "India" ,
+                 designation : "Student" ,
+                 status : "😔😔😔"    
                  
                  
              } , null , 2)}</pre></p>
