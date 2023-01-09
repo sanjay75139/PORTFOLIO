@@ -98,10 +98,9 @@ function Home() {
               <hr />
               <p>HTML/CSS</p>
               <p>Javascript</p>
+              <p>React JS</p>
               <p>ReactDOM</p>
-
               <p>Redux</p>
-              <p>Angular</p>
             </div>
           </div>
 
@@ -135,12 +134,12 @@ function Home() {
       <div className="who-is-sanjay flex-with-center" style={{backgroundImage:`url('/whoissanjay.svg')`}}>
          
          <div>
-             <h3>Hi , Hello , Namste</h3>
+             <h3>Hi , Hello , Vanakkam</h3>
              <hr />
              <p><pre>{JSON.stringify({
                  name:"K.Sanjay" ,
                  from : "India" ,
-                 age:21,
+                 age:22,
                  gender:"Male"
              } , null , 2)}</pre></p>
          </div>
